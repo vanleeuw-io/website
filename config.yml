@@ -18,3 +18,11 @@ params:
       I'm Anton, a freelance software engineer with experience working in the **utility** and **financial** sector. 
       Currently on a mission at the **National Bank of Belgium** &#127963. 
       JAVA is my bread and butter but I'm doing more and more in Golang.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/vanleeuw-io"
+    - name: linkedIn
+      url: "https://www.linkedin.com/company/vanleeuw-io/"
+    - name: email
+      url: "mailto:anton@vanleeuw.io"
