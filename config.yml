@@ -1,4 +1,13 @@
-baseURL: http://example.org/
+baseURL: "https://vanleeuw.io/"
+title: vanleeuw.io
 languageCode: en-us
-title: My New Hugo Site
-theme: "PaperMod"
+theme: PaperMod
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  description: "company website for vanleeuw.io"
+  author: [ "Anton Vanleeuw" ]
