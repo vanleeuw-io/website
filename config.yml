@@ -11,3 +11,10 @@ minify:
 params:
   description: "company website for vanleeuw.io"
   author: [ "Anton Vanleeuw" ]
+
+  homeInfoParams:
+    Title: "Hello! \U0001F44B"
+    Content: >
+      I'm Anton, a freelance software engineer with experience working in the **utility** and **financial** sector. 
+      Currently on a mission at the **National Bank of Belgium** &#127963. 
+      JAVA is my bread and butter but I'm doing more and more in Golang.
